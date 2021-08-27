@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👋
 
-
-
 Software Developer | Tech Evangelist | Digital Marketing Strategist | Photographer/Videographer
 -->
 

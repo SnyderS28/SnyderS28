@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I’m collaborating on the <a href="https://github.com/UtahJS">UtahJS</a> booklist API with Node.js and React.
-- 💬 Ask me about <a href="https://www.php.net/">PHP</a>, SQL, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> or Fourier Transformations /(maybe skip the last one/).
-- 🔭 I’m currently working on a PWA mobile app. Check out my website for more info.
-- 📫 How to reach me: DM me through LinkedIn. [linkedin]
-- ⚡ Fun fact: ...
+- 💬 Ask me about <a href="https://www.php.net/">PHP</a>, SQL, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> or Fourier Transformations (maybe skip the last one).
+- 🔭 I’m currently working on a PWA mobile app for time management. Check out my <a href="https://seeds2deeds.com">website</a> for more info.
+- 📫 How to reach me: DM me through <a href="https://www.linkedin.com/in/stevensnyder1/">LinkedIn</a>.
+- ⚡ Fun fact: I earned my Eagle Scout with all 3 Eagle Palms!
   <!-- - 👋 -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 🌱 I’m currently learning ... -->
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools I use:
+### Languages and tools that I use:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][twitter]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][twitter]

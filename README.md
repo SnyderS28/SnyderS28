@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Youtube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" />][youtube]
 
 [website]: https://seeds2deeds.com
-[facebook]: https://www.facebook.com/settings?tab=account&section=username
+[facebook]: https://www.facebook.com/steven.snyder.28
 [twitter]: https://twitter.com/StevensTips
 [youtube]: https://www.youtube.com/channel/UCmzNYvpP5cd1J0N6yXgMS3w
 [instagram]: https://www.instagram.com/steven.snyder.7906/

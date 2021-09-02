@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 🌱 I’m currently learning ... -->
   <!-- - 😄 Pronouns: ... -->
-
 <br />
 
 ### Languages and tools that I use:

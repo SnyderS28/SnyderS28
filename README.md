@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a PWA mobile app.
 <!-- - 🌱 I’m currently learning ... -->
-- 👯 I’m collaborating on the UtahJS booklist API with Node.js and React. [utahjs]
+- 👯 I’m collaborating on the <a href="https://github.com/UtahJS">UtahJS</a> booklist API with Node.js and React.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about PHP, SQL, Javascript, HTML, CSS or Fourier Transformations.
 - 📫 How to reach me: DM me through LinkedIn. [linkedin]

@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 -->
-
+<br />
 - 👯 I’m collaborating on the <a href="https://github.com/UtahJS">UtahJS</a> booklist API with Node.js and React.
 - 💬 Ask me about <a href="https://www.php.net/">PHP</a>, SQL, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> or Fourier Transformations (maybe skip the last one).
 - 🔭 I’m currently working on a PWA mobile app for time management. Check out my <a href="https://seeds2deeds.com">website</a> for more info.

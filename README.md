@@ -8,15 +8,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a PWA mobile app.
-<!-- - 🌱 I’m currently learning ... -->
 - 👯 I’m collaborating on the <a href="https://github.com/UtahJS">UtahJS</a> booklist API with Node.js and React.
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about PHP, SQL, Javascript, HTML, CSS or Fourier Transformations.
+- 💬 Ask me about <a href="https://www.php.net/">PHP</a>, SQL, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> or Fourier Transformations /(maybe skip the last one/).
+- 🔭 I’m currently working on a PWA mobile app. Check out my website for more info.
 - 📫 How to reach me: DM me through LinkedIn. [linkedin]
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
-<!-- - 👋 -->
+  <!-- - 👋 -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 🌱 I’m currently learning ... -->
+  <!-- - 😄 Pronouns: ... -->
 
 <br />
 
@@ -30,8 +30,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][twitter]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][twitter]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][twitter]
+[<img align="left" alt="Microsoft Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="Linode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
+[<img align="left" alt="Digital Ocean" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][twitter]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][twitter]
@@ -42,3 +48,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/steven.snyder.7906/
 [linkedin]: https://www.linkedin.com/in/stevensnyder1/
 [utahjs]: https://github.com/UtahJS
+[php]: https://www.php.net/

@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a PWA mobile app for time management. Check out my <a href="https://seeds2deeds.com">website</a> for more info.
 - 📫 How to reach me: DM me through <a href="https://www.linkedin.com/in/stevensnyder1/">LinkedIn</a>.
 - ⚡ Fun fact: I earned my Eagle Scout with all 3 Eagle Palms!
-  <!-- - 👋 -->
-  <!-- - 🤔 I’m looking for help with ... -->
-  <!-- - 🌱 I’m currently learning ... -->
-  <!-- - 😄 Pronouns: ... -->
-<br />
+    <!-- - 👋 -->
+    <!-- - 🤔 I’m looking for help with ... -->
+    <!-- - 🌱 I’m currently learning ... -->
+    <!-- - 😄 Pronouns: ... -->
+  <br />
 
 ### Languages and tools that I use:
 
@@ -48,8 +48,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="Youtube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" />][youtube]
 
+<br />
+
+### Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://seeds2deeds.com
-[facebook]: https://www.facebook.com/steven.snyder.28
+[facebook]: https://www.facebook.com/settings?tab=account&section=username
 [twitter]: https://twitter.com/StevensTips
 [youtube]: https://www.youtube.com/channel/UCmzNYvpP5cd1J0N6yXgMS3w
 [instagram]: https://www.instagram.com/steven.snyder.7906/

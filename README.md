@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [What is this?](https://www.youtube.com/watch?v=m4rycC9WcV4)
 <!-- YOUTUBE:END -->
 
@@ -70,6 +69,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nurture Your Dreams](https://seeds2deeds.com/2017/01/24/nurture-dreams/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />

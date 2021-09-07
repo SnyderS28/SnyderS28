@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nurture Your Dreams](https://seeds2deeds.com/2017/01/24/nurture-dreams/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />

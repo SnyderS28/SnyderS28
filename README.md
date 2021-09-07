@@ -19,6 +19,8 @@ Here are some ideas to get you started:
     <!-- - 😄 Pronouns: ... -->
   <br />
 
+---
+
 ### Languages and tools that I use:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][github]
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
 
 <br />
 
+---
+
 ### Follow me on social media:
 
 [<img align="left" alt="Facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
@@ -50,10 +54,14 @@ Here are some ideas to get you started:
 
 <br />
 
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<br />
 
 ---
 
@@ -61,6 +69,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+---
 
 [website]: https://seeds2deeds.com
 [facebook]: https://www.facebook.com/settings?tab=account&section=username

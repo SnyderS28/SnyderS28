@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [What is this?](https://www.youtube.com/watch?v=m4rycC9WcV4)
 <!-- YOUTUBE:END -->
 

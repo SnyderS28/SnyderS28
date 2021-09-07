@@ -74,6 +74,17 @@ Here are some ideas to get you started:
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Steven Snyder's GitHub Stats" src="https://github-readme-stats.SnyderS28.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+<br />
+
+---
+
 [website]: https://seeds2deeds.com
 [facebook]: https://www.facebook.com/settings?tab=account&section=username
 [twitter]: https://twitter.com/StevensTips

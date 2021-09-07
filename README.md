@@ -76,12 +76,9 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: Recent Github Activity
 
-  <img align="left" alt="Steven Snyder's GitHub Stats" src="https://github-readme-stats.SnyderS28.vercel.app/api?username=SnyderS28&show_icons=true&hide_border=true" />
-
-</details>
+[![Steven Snyder's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnyderS28)]
 
 <br />
 

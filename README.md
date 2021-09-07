@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ---
 
 [website]: https://seeds2deeds.com
-[facebook]: https://www.facebook.com/settings?tab=account&section=username
+[facebook]: https://www.facebook.com/steven.snyder.28/
 [twitter]: https://twitter.com/StevensTips
 [youtube]: https://www.youtube.com/channel/UCmzNYvpP5cd1J0N6yXgMS3w
 [instagram]: https://www.instagram.com/steven.snyder.7906/

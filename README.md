@@ -69,6 +69,10 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Innovator Spotlight with AWS User Group](https://www.linkedin.com/posts/stevensnyder1_aws-utah-innovator-spotlight-april-2025-activity-7316206829573664769-pKNr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHaw2MBma525FKX3bMgjzLOcjThU2R3cpM)
+- [AI/ML Meetup](https://www.linkedin.com/posts/stevensnyder1_ai-ml-genai-activity-7314515144024174593-Js9j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHaw2MBma525FKX3bMgjzLOcjThU2R3cpM)
+- [AWS March Madness Jam](https://www.linkedin.com/posts/stevensnyder1_aws-ai-ml-activity-7308700298376527872-vUe8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHaw2MBma525FKX3bMgjzLOcjThU2R3cpM)
+- [Automating Workflow with AI](https://www.linkedin.com/posts/stevensnyder1_ai-automation-salesforce-activity-7306106691052261377-SFJk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHaw2MBma525FKX3bMgjzLOcjThU2R3cpM)
 - [Warrior or Worrier?](https://seeds2deeds.com/2021/09/12/warrior-or-worrier/)
 - [Nurture Your Dreams](https://seeds2deeds.com/2017/01/24/nurture-dreams/)
 <!-- BLOG-POST-LIST:END -->

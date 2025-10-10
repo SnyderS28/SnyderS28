@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I’m collaborating on the <a href="https://github.com/UtahJS">UtahJS</a> booklist API with Node.js and React.
-- 💬 Ask me about <a href="https://www.php.net/">PHP</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://react.dev/">React</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, or Fourier Transformations (maybe skip the last one).
+- 💬 Ask me about <a href="https://www.php.net/">PHP</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://react.dev/">React</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, or Fast Fourier Transformations (long story).
 - 🔭 I’m currently working on a PWA mobile app which leverages AI to interact with visitors. Check out my <a href="https://seeds2deeds.com">website</a> for more info.
 - 📫 How to reach me: DM me through <a href="https://www.linkedin.com/in/stevensnyder1/">LinkedIn</a>.
 - ⚡ Fun fact: I earned my Eagle Scout with all 3 Eagle Palms!
